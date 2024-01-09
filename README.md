@@ -6,6 +6,6 @@ status kontribusi :
 4. Dimas
 
 # Catatan
-Clone Repositori ini `git clone` `https://github.com/Ezbim/UAS_OOP-Sistem-Kasir-Netbeans.git`. kemudian rename folder `UAS_OOP-Sistem-Kasir-Netbeans` menjadi `SistemKasir`.
-Setelah melakukan Clone Project ini jangan lupa untuk mengimport `/database/DB_SistemKasir.sql` untuk bisa mengakses database.
-Buka `netbeans` setelah itu `file` - `open project` - cari folder SistemKasir kemudian pilih `SistemKasir` - selesai.
+1. Clone Repositori ini `git clone` `https://github.com/Ezbim/UAS_OOP-Sistem-Kasir-Netbeans.git`. kemudian rename folder `UAS_OOP-Sistem-Kasir-Netbeans` menjadi `SistemKasir`.
+2. Setelah melakukan Clone Project ini jangan lupa untuk mengimport `/database/DB_SistemKasir.sql` untuk bisa mengakses database.
+3. Buka `netbeans` setelah itu `file` - `open project` - cari folder SistemKasir kemudian pilih `SistemKasir` - selesai.
