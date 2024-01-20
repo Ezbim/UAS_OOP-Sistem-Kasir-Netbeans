@@ -1,3 +1,5 @@
+package content;
+
 import java.sql.*;
 import javax.swing.*;
 import javax.xml.crypto.Data;
@@ -146,6 +148,12 @@ public class transaksi extends javax.swing.JFrame {
         jLabel5.setText("Jumlah");
         getContentPane().add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 250, 80, 30));
         getContentPane().add(jTextField44, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 250, 190, 30));
+
+        jTextField11.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField11ActionPerformed(evt);
+            }
+        });
         getContentPane().add(jTextField11, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 100, 190, 30));
         getContentPane().add(jTextField22, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 150, 190, 30));
         getContentPane().add(jTextField33, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 200, 190, 30));
@@ -154,7 +162,7 @@ public class transaksi extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void TSimpanActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_TSimpanActionPerformed
-         try{
+        try{
             koneksi();
             statBrg = con.createStatement();
             String SQL = "insert into transaksi values('"+jTextField11.getText()+"','"+jTextField22.getText()+"','"+jTextField33.getText()+"','"+jTextField44.getText()+"')";
@@ -164,7 +172,7 @@ public class transaksi extends javax.swing.JFrame {
             con.close();
             Clear();
             JOptionPane.showMessageDialog(null, "berhasil simpan");
-            
+
         }catch(Exception exc){
             System.err.println(exc.getMessage());
         }
@@ -177,6 +185,10 @@ public class transaksi extends javax.swing.JFrame {
     private void TEditActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_TEditActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_TEditActionPerformed
+
+    private void jTextField11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField11ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField11ActionPerformed
 
     /**
      * @param args the command line arguments
