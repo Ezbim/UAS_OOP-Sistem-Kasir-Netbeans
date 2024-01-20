@@ -1,6 +1,6 @@
 # Kelompok 4
 status kontribusi :
-1. Elza Satria Bhima Sakti (Fungsi Create, Fungsi Read, Membuat Database + Koneksi Database, dan Layout Aplikasi)
+1. Elza Satria Bhima Sakti (Membuat Keseluruhan Database , Templating Pages ,dan Fungsi CRUD Transaksi )
 2. Moch. Ziad Al Islam
 3. Shakti
 4. Dimas
