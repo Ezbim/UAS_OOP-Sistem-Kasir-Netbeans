@@ -1,9 +1,8 @@
 # Kelompok 4
 status kontribusi :
-1. Elza Satria Bhima Sakti (Fungsi Create, Fungsi Read, Membuat Database + Koneksi Database, dan Layout Aplikasi)
+1. Elza Satria Bhima Sakti (repo owner)
 2. Moch. Ziad Al Islam
-3. Shakti
-4. Dimas
+3. Dimas
 
 # Catatan
 1. Clone Repositori ini `git clone` `https://github.com/Ezbim/UAS_OOP-Sistem-Kasir-Netbeans.git`. kemudian rename folder `UAS_OOP-Sistem-Kasir-Netbeans` menjadi `SistemKasir`.
