@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 # Kelompok 4
 status kontribusi :
 1. Elza Satria Bhima Sakti (repo owner)
 2. Moch. Ziad Al Islam
 3. Dimas
-=======
+
 # UAS OOP - SISTEM KASIR - Java Netbeans 
 ## Kelompok 4
 Status kontribusi :
@@ -12,7 +12,7 @@ Status kontribusi :
 2. Moch. Ziad Al Islam
 3. Rialdy Shakti
 4. M Nurhardimas
->>>>>>> 2c1d5d394410128d11d5d4caecf81c76ec261fcf
+
 
 ## Catatan
 1. Clone Repositori ini `git clone` `https://github.com/Ezbim/UAS_OOP-Sistem-Kasir-Netbeans.git`. kemudian rename folder `UAS_OOP-Sistem-Kasir-Netbeans` menjadi `SistemKasir`.
