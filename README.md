@@ -1,17 +1,9 @@
-
-# Kelompok 4
-status kontribusi :
-1. Elza Satria Bhima Sakti (repo owner)
-2. Moch. Ziad Al Islam
-3. Dimas
-
 # UAS OOP - SISTEM KASIR - Java Netbeans 
 ## Kelompok 4
 Status kontribusi :
-1. Elza Satria Bhima Sakti **(Membuat Keseluruhan Database , Templating Pages ,dan Fungsi CRUD Transaksi )**
+1. Elza Satria Bhima Sakti 
 2. Moch. Ziad Al Islam
-3. Rialdy Shakti
-4. M Nurhardimas
+3. M Nurhardimas
 
 
 ## Catatan
